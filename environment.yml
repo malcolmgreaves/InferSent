@@ -1,0 +1,16 @@
+name: InferSent
+channels:
+  - defaults
+  - conda-forge
+  - pytorch 
+dependencies:
+  - python=2.7.*
+  - numpy=1.14.*
+  - scipy=1.0.*
+  - openblas=0.2.*
+  - scikit-learn=0.19.*
+  - cython=0.25.*
+  - nltk=3.2.*
+  - torchvision=0.2.*
+  - pytorch=0.3.*
+      
